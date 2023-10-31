@@ -1,0 +1,73 @@
+{
+    "ahmedtanvir2353@gmail.com": {
+        "username": "Tanvir Ahmed",
+        "password": "123456",
+        "role": "admin"
+    },
+    "karim@gmail.com": {
+        "username": "Rakib",
+        "password": "1234",
+        "role": "user"
+    },
+    "tanvirahmed50516@gmail.com": {
+        "username": "Tanvir ",
+        "password": "12345",
+        "role": "user"
+    },
+    "tanvirahmed@gmail.com": {
+        "username": "Veer",
+        "password": "1122",
+        "role": "user"
+    },
+    "ahmed@gmail.com": {
+        "username": "Ahmed",
+        "password": "1111",
+        "role": "user"
+    },
+    "emran@gmail.com": {
+        "username": "Emran Karim",
+        "password": "5555",
+        "role": "manager",
+        "email": "emrankarim@gmail.com"
+    },
+    "khan@gmail.com": {
+        "username": "Khan",
+        "password": "3333",
+        "role": "admin"
+    },
+    "shafiq@gmail.com": {
+        "username": "Shafiq",
+        "password": "3333",
+        "role": "manager"
+    },
+    "arif@gmail.com": {
+        "username": "Arif",
+        "password": "3333",
+        "role": "user"
+    },
+    "shohan@gmail.com": {
+        "username": "Shohan",
+        "password": "4444",
+        "role": "user"
+    },
+    "firoz@gmail.com": {
+        "username": "Firoz",
+        "password": "5555",
+        "role": "user"
+    },
+    "sharrick@gmail.com": {
+        "username": "Sharrick",
+        "password": "6666",
+        "role": "user"
+    },
+    "mitul@gmail.com": {
+        "username": " Mitul",
+        "password": "7777",
+        "role": "manager"
+    },
+    "ahad@gmail.com": {
+        "username": "Ahad",
+        "password": "9999",
+        "role": "user"
+    }
+}
